@@ -45,7 +45,6 @@ var expect = function (val) {
                 return true;
             } else {
                 throw new Error("Equal");
-
             }
 
         }
