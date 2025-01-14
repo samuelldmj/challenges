@@ -14,3 +14,4 @@ function solution($str) {
 }
 
 echo solution('Daniel');
+echo solution(['samuel', 'micheal']);
